@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "navigationProject",
+    "slug": "navigationProject",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
